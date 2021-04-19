@@ -1,0 +1,34 @@
+site_name: BAM Dev Native Standards
+theme:
+  name: material
+  logo: assets/logo.svg
+  custom_dir: overrides
+  palette:
+    scheme: slate
+    primary: blue
+    accent: blue
+  features:
+    - navigation.instant
+    - navigation.tabs
+    - navigation.top
+extra_css:
+  - css/extra.css
+markdown_extensions:
+  - toc:
+      permalink: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+      options:
+        custom_icons:
+          - overrides/.icons
+repo_url: https://github.com/squidfunk/mkdocs-material
+extra:
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/bam_lab
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/company/bam.tech
+    - icon: bam/logo
+      link: https://bam.tech
+copyright: Copyright &copy; 2020 - 2021 BAM
