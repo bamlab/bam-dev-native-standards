@@ -38,6 +38,7 @@ markdown_extensions:
           - overrides/.icons
 repo_url: https://github.com/bamlab/bam-dev-native-standards
 extra:
+  generator: false
   social:
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/bam_lab
