@@ -36,7 +36,7 @@ markdown_extensions:
       options:
         custom_icons:
           - overrides/.icons
-repo_url: https://github.com/squidfunk/mkdocs-material
+repo_url: https://github.com/bamlab/bam-dev-native-standards
 extra:
   social:
     - icon: fontawesome/brands/twitter
