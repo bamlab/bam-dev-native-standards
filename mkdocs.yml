@@ -4,13 +4,27 @@ theme:
   logo: assets/logo.svg
   custom_dir: overrides
   palette:
-    scheme: slate
-    primary: blue
-    accent: blue
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+      primary: blue
+      accent: yellow
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+      primary: blue
+      accent: amber
   features:
     - navigation.instant
     - navigation.tabs
     - navigation.top
+    - search.suggest
+    - search.highlight
+    - search.share
 extra_css:
   - css/extra.css
 markdown_extensions:
@@ -32,3 +46,6 @@ extra:
     - icon: bam/logo
       link: https://bam.tech
 copyright: Copyright &copy; 2020 - 2021 BAM
+google_analytics:
+  - G-Z3WFERZK6G
+  - auto
