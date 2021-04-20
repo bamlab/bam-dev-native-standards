@@ -38,6 +38,7 @@ markdown_extensions:
         custom_icons:
           - overrides/.icons
 repo_url: https://github.com/bamlab/bam-dev-native-standards
+edit_uri: edit/main/docs/
 extra:
   generator: false
   social:
