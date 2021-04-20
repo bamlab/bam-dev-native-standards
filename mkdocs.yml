@@ -22,6 +22,7 @@ theme:
     - navigation.instant
     - navigation.tabs
     - navigation.top
+    - navigation.indexes
     - search.suggest
     - search.highlight
     - search.share
