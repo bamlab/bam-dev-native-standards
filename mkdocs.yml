@@ -52,3 +52,5 @@ copyright: Copyright &copy; 2020 - 2021 BAM
 google_analytics:
   - G-Z3WFERZK6G
   - auto
+plugins:
+  - git-revision-date-localized
