@@ -53,4 +53,5 @@ google_analytics:
   - G-Z3WFERZK6G
   - auto
 plugins:
+  - search
   - git-revision-date-localized
