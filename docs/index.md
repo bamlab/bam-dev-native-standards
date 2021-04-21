@@ -1,1 +1,4 @@
-# Getting Started
+---
+template: home.html
+title: Getting Started
+---

@@ -10,14 +10,14 @@ theme:
         icon: material/weather-sunny
         name: Switch to dark mode
       primary: blue
-      accent: yellow
+      accent: green
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       toggle:
         icon: material/weather-night
         name: Switch to light mode
       primary: blue
-      accent: amber
+      accent: green
   features:
     - navigation.instant
     - navigation.tabs
