@@ -22,7 +22,7 @@ In order to preview locally:
 Material for MkDocs Insiders can be installed with pip:
 
 ```sh
-pip3 install git+https://${GH_TOKEN}@github.com/squidfunk/mkdocs-material-insiders.git
+pip3 install git+https://${GH_TOKEN}@github.com/bamlab/mkdocs-material-insiders.git
 ```
 
 The GH_TOKEN environment variable must be set to the value of the personal access token you generated in the previous step. Note that the personal access token must be kept secret at all times, as it allows the owner to access your private repositories.
