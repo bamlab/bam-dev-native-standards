@@ -85,6 +85,9 @@ markdown_extensions:
         - name: mermaid
           class: mermaid-experimental
           format: !!python/name:pymdownx.superfences.fence_code_format
+        - name: plantuml
+          class: plantuml-experimental
+          format: !!python/name:pymdownx.superfences.fence_code_format
   - pymdownx.tabbed
   - pymdownx.tasklist:
       custom_checkbox: true

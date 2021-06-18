@@ -1,4 +1,4 @@
-# About Us
+# We're Hiring !
 
 We are mobile developers, based in Paris, working with hybrid and cross platform technologies.
 
