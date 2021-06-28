@@ -58,6 +58,16 @@ Use [dependabot](https://dependabot.com).
 | ------------------------------------------------ | ------------------- |
 | ➕ one location for all dependencies declaration | ➖ no auto-complete |
 
+### Other approach to try out : refreshVersions
+
+[refreshVersions](https://jmfayard.github.io/refreshVersions/)
+
+| Pros                                             | Cons                                                      |
+| ------------------------------------------------ | --------------------------------------------------------- |
+| ➕ one location for all dependencies declaration | ➖ no auto-complete                                       |
+| ➕ auto-complete                                 | ➖ automatic pull-requests to setup manually (but doable) |
+| ➕ choose among all available versions           |                                                           |
+
 ### Other approach to try out : Centralized dependency versions with Gradle 7.0
 
 See [the releases notes](https://docs.gradle.org/7.0/release-notes.html).
