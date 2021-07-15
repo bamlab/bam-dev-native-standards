@@ -1,4 +1,4 @@
-# Obeya Kotlin
+# Kotlin
 
 ## Things to try out
 
