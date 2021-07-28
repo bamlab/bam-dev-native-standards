@@ -1,5 +1,5 @@
 ---
-canonical_url: https://blog.bam.tech/en/developer-news/create-an-animated-instagram-like-progress-bar-with-jetpack-compose
+canonical_url: https://blog.bam.tech/developer-news/create-an-animated-instagram-like-progress-bar-with-jetpack-compose
 keywords: android, jetpack compose
 author: Thomas Pucci
 hide:
