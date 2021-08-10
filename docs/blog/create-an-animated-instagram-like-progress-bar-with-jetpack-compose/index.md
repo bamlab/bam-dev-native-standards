@@ -13,6 +13,18 @@ At [BAM](https://bam.tech), we use it on all new projects. On older projects, we
 
 This is the first post of a series of How to do this with Jetpack Compose.
 
+???+ note
+    Posts in this series :
+
+    - [Create an animated Instagram-like progress bar with Jetpack Compose](/blog/create-an-animated-instagram-like-progress-bar-with-jetpack-compose)
+    - [Detect Instagram-like gestures with Jetpack Compose](/blog/detect-instagram-like-gestures-with-jetpack-compose)
+
+??? info
+    Resources :
+
+    - [Link to Github Repo](https://github.com/bamlab/android-live-coding)
+    - [Link to Figma project](https://www.figma.com/file/skHQUPywP3fQ80ytC8l9Ov/Live-Coding?node-id=0%3A1)
+
 Let's go !
 
 ## Recreating Instagram's stories progress bar
